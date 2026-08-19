@@ -25,7 +25,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=blue" alt="Profile views"/>
   
   <p>Remember where I came from. </p>
 </div>
